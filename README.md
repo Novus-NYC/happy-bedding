@@ -1,6 +1,6 @@
 # Happy Bedding (행복한 이불집)
 
-Official website for Happy Bedding, a Korean bedding importer and specialty shop at 150-29 Northern Blvd, Flushing, NY 11354. Built on the Volta base template.
+Official website for Happy Bedding, a Korean bedding importer and specialty shop at 150-29 Northern Blvd, Flushing, NY 11354. Built on the Novus base template.
 
 ---
 
@@ -65,5 +65,5 @@ npm run lint
 - [x] Add About, Collections, and Visit pages (`src/app/about`, `src/app/collections`, `src/app/visit`)
 - [x] Replace favicon + assets in `src/app/icon.png`, `src/app/apple-icon.png`
 - [x] Update SEO metadata (title/description per route, Open Graph basics)
-- [x] Update Volta credit link text / URL in the footer (kept as required: "Made by Novus" → https://novusnyc.org)
+- [x] Update Novus credit link text / URL in the footer (kept as required: "Made by Novus" → https://novusnyc.org)
 - [x] Add EN/KO language toggle (`src/lib/i18n`)
